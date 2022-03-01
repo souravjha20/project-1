@@ -1,3 +1,2 @@
 "Hello, welcome to git session"
-
-hais ashdas aahashad adhadjakda'dadbadadnam
+Welcome to second git session 
