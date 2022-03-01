@@ -1,3 +1,5 @@
 "Hello, welcome to git session"
 Welcome to second git session 
 File is updated by developer A
+this file is updated by developer B on 1 march 2022 with differnet pereriples  
+
