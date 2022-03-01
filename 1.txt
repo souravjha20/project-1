@@ -1,2 +1,3 @@
 "Hello, welcome to git session"
-Welcome to second git session 
+Welcome to second git session
+this file is updated by developer B on 1 march 2022 with differnet pereriples  
