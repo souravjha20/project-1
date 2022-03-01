@@ -1,2 +1,3 @@
 "Hello, welcome to git session"
 Welcome to second git session 
+File is updated by developer A
